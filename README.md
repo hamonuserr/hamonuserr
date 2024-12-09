@@ -1,4 +1,4 @@
-## Greetings traveler! 👋
+## Greetings, traveler! 👋
 Всем привет, меня зовут Бирюков Владимир.
 
 ## About myself 📜
