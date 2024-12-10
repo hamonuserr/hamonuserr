@@ -8,7 +8,7 @@
 
 ## Skills 🖱💻
 - **Технологии:** Python, Linux, SSH, Bash, Docker, FastAPI
-- **Работа с данными:** Pandas, Hadoop, Spark, Kafka, SuperSet, SQL, Postgres
+- **Работа с данными:** Pandas, Hadoop, Spark, Kafka, SQL, Postgres
 - **Soft skills:** критическое мышление, работа в команде, обучаемость, ответственность, самоорганизация
 
 ## Education 🎓
